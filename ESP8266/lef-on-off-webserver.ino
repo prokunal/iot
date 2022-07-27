@@ -1,7 +1,7 @@
 #include<ESP8266WiFi.h>
 
-const char* ssid = "OSCP_4G";
-const char* password = "OL7Looters@";
+const char* ssid = "NETWORK_NAME";
+const char* password = "NETWORK_PASSWORD";
 String header;
 String outputd1state = "off";
 const int outputd1 = D1;
